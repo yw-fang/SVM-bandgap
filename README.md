@@ -5,10 +5,20 @@ The training data comes from one study
 (Phys. Rev. B 93, 115104 – Published 1 March 2016)
 in my former group of Prof. Isao Tanaka at Kyoto University. Since the
 license of these data have not been clear, these data need to be
-obtained upon reqeust.
+obtained upon reqeust from Lee or me.
 
 This repository includes the machine learning codes written by myself.
 
+The support vector regression model was used for this prediction. 
+The database including 270 materials was used. 80% of the database 
+was randomly selected for training and the remaining 20% was used for validation. 
+The validation result was shown as follow. 
+Although I haven't optimized the parameters in the learning process,  
+the obtained result looks excellent and is comparable to Fig. 5 in the aforementioned
+PRB paper. The mean squared error in our prediction was about 0.13.
+
 ![Fig 1: The blue squares show the predicted bad gaps by support vector regression (SVR) with 18 predictors
 ](./Fig1.jpg)
+Fig: The blue squares show the predicted bad gaps by support vector regression
+(SVR) with 18 predictors.
 
