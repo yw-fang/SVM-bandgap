@@ -8,3 +8,7 @@ license of these data have not been clear, these data need to be
 obtained upon reqeust.
 
 This repository includes the machine learning codes written by myself.
+
+![Fig 1: The blue squares show the predicted bad gaps by support vector regression (SVR) with 18 predictors
+](./Fig1.jpg)
+
