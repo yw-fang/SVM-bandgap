@@ -19,8 +19,8 @@ PRB paper. The mean squared error in our prediction was about 0.13.
 
 ![Fig 1](./Fig1.jpg)
 
-\textbf{Fig 1: The blue squares show the predicted bad gaps by support vector regression
-(SVR) with 18 predictors.}
+**Fig 1: The blue squares show the predicted bad gaps by support vector regression
+(SVR) with 18 predictors.**
 
 
 
@@ -31,7 +31,7 @@ The x-axis and y-axis correspond to GW-DFT calculated band gaps and SVR-predicte
 
 ![Fig 2](./Fig2.png)
 
-\textbf{Fig 2: The blue squares show the predicted bad gaps by support vector regression
-(SVR) with 18 predictors.}
+**Fig 2: The blue squares show the predicted bad gaps by support vector regression
+(SVR) with 18 predictors.**
 
 
