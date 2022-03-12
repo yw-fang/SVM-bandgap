@@ -17,8 +17,21 @@ Although I haven't optimized the parameters in the learning process,
 the obtained result looks excellent and is comparable to Fig. 5 in the aforementioned
 PRB paper. The mean squared error in our prediction was about 0.13.
 
-![Fig 1: The blue squares show the predicted bad gaps by support vector regression (SVR) with 18 predictors
-](./Fig1.jpg)
-Fig: The blue squares show the predicted bad gaps by support vector regression
-(SVR) with 18 predictors.
+![Fig 1](./Fig1.jpg)
+
+\textbf{Fig 1: The blue squares show the predicted bad gaps by support vector regression
+(SVR) with 18 predictors.}
+
+
+
+In Fig. 2,  fifty materials were randomly chosen for validation the SVR model
+by comparing the results with the GW-DFT calculated band gaps. 
+The x-axis and y-axis correspond to GW-DFT calculated band gaps and SVR-predicted band gaps (eV), respectively.
+
+
+![Fig 2](./Fig2.png)
+
+\textbf{Fig 2: The blue squares show the predicted bad gaps by support vector regression
+(SVR) with 18 predictors.}
+
 
